@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="392" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="392" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+      <class name="com.test2.Smoke_Test">
+        <test-method status="PASS" signature="test1_Smoke()[pri:1, instance:com.test2.Smoke_Test@5d2a4eed]" name="test1_Smoke" duration-ms="131" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_Smoke -->
+        <test-method status="PASS" signature="test2_Smoke()[pri:2, instance:com.test2.Smoke_Test@5d2a4eed]" name="test2_Smoke" duration-ms="1" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_Smoke -->
+        <test-method status="PASS" signature="test3_Smoke()[pri:3, instance:com.test2.Smoke_Test@5d2a4eed]" name="test3_Smoke" duration-ms="3" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_Smoke -->
+      </class> <!-- com.test2.Smoke_Test -->
+      <class name="com.test2.Smoke_Test2">
+        <test-method status="PASS" signature="test1_Smoke2()[pri:1, instance:com.test2.Smoke_Test2@57459491]" name="test1_Smoke2" duration-ms="2" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_Smoke2 -->
+        <test-method status="PASS" signature="test2_Smoke2()[pri:2, instance:com.test2.Smoke_Test2@57459491]" name="test2_Smoke2" duration-ms="2" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_Smoke2 -->
+        <test-method status="PASS" signature="test3_Smoke2()[pri:3, instance:com.test2.Smoke_Test2@57459491]" name="test3_Smoke2" duration-ms="3" started-at="2020-07-24T11:13:24Z" finished-at="2020-07-24T11:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_Smoke2 -->
+      </class> <!-- com.test2.Smoke_Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

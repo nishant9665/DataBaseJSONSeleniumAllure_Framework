@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1270" started-at="2020-07-24T11:07:49Z" finished-at="2020-07-24T11:07:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1270" started-at="2020-07-24T11:07:49Z" finished-at="2020-07-24T11:07:50Z">
+      <class name="rnd.JsonDataBaseRead2">
+        <test-method status="PASS" signature="dataBaseConnectionDone()[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataBaseConnectionDone" is-config="true" duration-ms="864" started-at="2020-07-24T11:07:49Z" finished-at="2020-07-24T11:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnectionDone -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="60" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nishant,Ganga Village,Narwade,1,10000,Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="4" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[virat,Keshaw NagaRr-highway,Sonar,3,15000,Pune-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="5" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhoni-2,zarkhand bus top,mahi,2,20000,ranchi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="5" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit,mumbai peral,Sharma,4,7000,mumbai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="7" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin,mumbai peral,Tendulkar,5,25000,mumbai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="4" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Subham,Mudhawa,Marathe,6,2345623,Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="3" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mulaai,karntaka,RCB,7,9338763,Banglore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="5" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SAHARA,MAharashtra,SRP,7,123903,Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+        <test-method status="PASS" signature="dataTest(java.lang.String)[pri:0, instance:rnd.JsonDataBaseRead2@6722db6e]" name="dataTest" duration-ms="6" started-at="2020-07-24T11:07:50Z" data-provider="dp" finished-at="2020-07-24T11:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SAHARA,MAharashtra,SRP,8,123903,Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTest -->
+      </class> <!-- rnd.JsonDataBaseRead2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
